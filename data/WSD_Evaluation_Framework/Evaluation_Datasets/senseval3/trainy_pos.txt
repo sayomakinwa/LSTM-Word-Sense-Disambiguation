@@ -1,0 +1,352 @@
+pos:DET pos:VERB pos:PRON pos:DET pos:NOUN pos:VERB pos:VERB
+pos:NOUN pos:VERB pos:ADV pos:ADP pos:PRON pos:NOUN pos:NOUN pos:ADP pos:ADJ pos:ADJ pos:NOUN
+pos:PRON pos:VERB pos:DET pos:ADJ pos:NOUN pos:ADP pos:ADJ pos:ADP pos:NOUN pos:ADP pos:ADP pos:DET pos:NOUN pos:ADP pos:NOUN
+pos:VERB pos:DET pos:NOUN pos:ADJ pos:CONJ pos:ADJ pos:CONJ pos:DET
+pos:CONJ pos:PRON pos:ADJ pos:NOUN pos:VERB pos:VERB pos:PRON pos:NOUN pos:ADP pos:NOUN pos:ADP pos:PRON pos:VERB pos:NOUN pos:CONJ pos:DET pos:NOUN pos:PRT pos:NOUN pos:VERB pos:ADV pos:ADJ
+pos:DET pos:NOUN pos:VERB pos:ADP pos:PRON pos:NOUN pos:NOUN pos:VERB pos:PRT pos:PRON pos:CONJ pos:VERB pos:ADP pos:DET pos:NOUN
+pos:NOUN pos:DET pos:VERB pos:ADJ pos:CONJ pos:ADV pos:ADJ pos:ADP pos:DET pos:ADJ pos:NOUN pos:DET pos:NOUN pos:ADP pos:ADJ pos:NOUN pos:VERB pos:ADP pos:PRON
+pos:ADV pos:VERB pos:ADV pos:PRON pos:VERB pos:PRON pos:ADP
+pos:ADV pos:DET pos:NOUN pos:VERB pos:ADV pos:ADJ
+pos:PRON pos:VERB pos:ADV pos:PRON pos:VERB pos:VERB pos:PRT pos:ADP pos:DET pos:NOUN
+pos:CONJ pos:ADP pos:NOUN pos:PRON pos:VERB pos:ADV
+pos:PRON pos:VERB pos:VERB pos:ADP pos:NUM pos:NOUN pos:ADP pos:ADJ pos:NOUN pos:CONJ pos:DET pos:NOUN pos:ADP pos:PRON pos:VERB pos:PRT pos:PRON
+pos:DET pos:NOUN pos:PRON pos:NOUN pos:ADV pos:VERB pos:ADP pos:NOUN pos:VERB pos:PRT pos:VERB pos:DET pos:NOUN pos:ADP pos:DET pos:NOUN pos:ADV pos:ADP pos:DET pos:ADJ pos:NOUN pos:VERB pos:ADP pos:DET pos:NOUN
+pos:NOUN pos:VERB pos:CONJ pos:DET pos:NOUN pos:VERB pos:ADV pos:CONJ pos:DET pos:NOUN pos:VERB pos:VERB pos:VERB pos:VERB pos:ADP pos:NOUN pos:VERB pos:ADV pos:VERB pos:PRT pos:PRON pos:DET pos:NOUN pos:ADV
+pos:PRON pos:NOUN pos:VERB pos:VERB pos:ADJ pos:NOUN pos:NOUN pos:VERB pos:VERB pos:VERB pos:ADP pos:NOUN pos:ADV
+pos:ADV pos:PRON pos:VERB pos:ADV pos:VERB pos:VERB pos:ADP pos:DET pos:ADP pos:DET pos:NOUN pos:VERB pos:VERB pos:VERB
+pos:ADV pos:PRON pos:VERB pos:VERB pos:VERB pos:PRON pos:NOUN pos:ADV pos:DET pos:NOUN pos:VERB pos:DET pos:NOUN pos:CONJ pos:DET pos:ADJ pos:NOUN pos:VERB pos:ADV pos:ADP pos:DET pos:NOUN pos:CONJ pos:VERB pos:ADV pos:ADP pos:PRON
+pos:ADP pos:ADV pos:DET pos:NOUN pos:VERB pos:VERB pos:NOUN pos:ADV pos:CONJ pos:VERB pos:NUM pos:NOUN pos:ADP pos:PRON pos:NOUN pos:ADP pos:ADP pos:PRON pos:VERB pos:DET pos:ADJ pos:NOUN
+pos:ADP pos:DET pos:NOUN pos:VERB pos:PRT pos:VERB pos:ADP pos:DET pos:ADP pos:PRON pos:ADP pos:ADP pos:PRON pos:VERB pos:VERB pos:ADP pos:DET pos:NOUN pos:ADV pos:PRT pos:VERB pos:PRON pos:ADJ pos:NOUN
+pos:ADV pos:DET pos:NOUN pos:PRON pos:VERB pos:VERB pos:CONJ pos:VERB pos:ADV pos:ADP pos:DET pos:NOUN pos:PRT pos:NOUN pos:ADP pos:VERB pos:DET pos:NOUN
+pos:ADV pos:ADV pos:DET pos:NOUN pos:VERB pos:VERB pos:ADP pos:PRON pos:VERB pos:ADP pos:PRON pos:NOUN pos:CONJ pos:VERB pos:ADV pos:PRT pos:PRON pos:NOUN
+pos:NOUN pos:VERB pos:ADV pos:VERB pos:PRON pos:ADJ pos:NOUN pos:ADP pos:DET pos:NOUN
+pos:ADV pos:PRON pos:VERB pos:PRON pos:ADV pos:ADV pos:CONJ pos:VERB pos:PRON pos:DET pos:NOUN pos:NOUN pos:VERB pos:VERB pos:ADP pos:DET pos:NOUN pos:PRT pos:VERB pos:PRON pos:VERB pos:PRT
+pos:PRON pos:VERB pos:VERB pos:VERB pos:DET pos:NOUN pos:ADP pos:NOUN pos:DET pos:VERB pos:VERB pos:DET pos:NOUN pos:ADP pos:VERB pos:DET pos:NOUN
+pos:ADV pos:DET pos:NOUN pos:VERB pos:PRON pos:NOUN pos:PRON pos:VERB pos:ADP pos:DET pos:NOUN
+pos:CONJ pos:ADV pos:DET pos:NOUN pos:VERB pos:ADP pos:NOUN pos:VERB pos:ADV pos:PRT pos:NUM pos:ADP pos:PRON pos:ADJ pos:NOUN pos:PRON pos:VERB pos:ADP pos:VERB pos:PRT pos:VERB pos:NOUN pos:ADP pos:DET pos:ADP pos:PRON
+pos:NOUN pos:ADV pos:VERB pos:ADV pos:CONJ pos:VERB pos:VERB pos:ADP pos:DET pos:NOUN pos:CONJ pos:VERB pos:DET pos:NOUN pos:ADP pos:VERB pos:PRON pos:ADJ pos:NOUN
+pos:CONJ pos:PRON pos:VERB pos:PRON pos:VERB pos:ADV pos:VERB pos:NOUN pos:ADV pos:ADP pos:ADJ pos:NOUN pos:ADV pos:ADP pos:PRON pos:VERB pos:ADJ pos:NOUN pos:ADP pos:PRON pos:NOUN
+pos:NOUN pos:VERB pos:ADP pos:DET
+pos:ADV pos:PRON pos:VERB pos:ADP pos:PRON pos:VERB pos:ADJ pos:PRON pos:VERB pos:DET pos:NOUN pos:ADP pos:NOUN
+pos:PRON pos:ADV pos:VERB pos:ADV pos:VERB pos:DET pos:NOUN pos:ADV pos:CONJ pos:PRON pos:VERB pos:PRT pos:VERB pos:ADJ
+pos:ADV pos:PRON pos:ADV pos:VERB pos:DET pos:NOUN pos:ADP pos:NOUN pos:PRON pos:VERB pos:ADP pos:NOUN pos:. pos:DET pos:PRON pos:VERB pos:VERB pos:PRON pos:NOUN pos:. pos:VERB pos:ADV pos:VERB pos:ADP pos:DET pos:NOUN pos:. pos:PRON pos:VERB pos:ADV pos:ADV pos:VERB pos:PRT pos:VERB pos:ADP pos:PRON pos:VERB pos:PRT pos:VERB
+pos:NOUN pos:VERB pos:DET pos:ADJ pos:NOUN
+pos:VERB pos:PRON pos:VERB pos:ADV pos:VERB pos:ADP pos:NOUN pos:NOUN
+pos:NOUN pos:VERB
+pos:DET pos:ADJ pos:NOUN pos:VERB pos:ADP pos:DET pos:NOUN pos:PRT pos:NOUN
+pos:PRON pos:VERB pos:PRON pos:VERB pos:ADV pos:VERB pos:PRON pos:ADV pos:NOUN
+pos:PRON pos:VERB pos:PRON
+pos:CONJ pos:NOUN pos:VERB pos:DET pos:NOUN pos:ADP pos:NOUN
+pos:PRON pos:VERB pos:VERB pos:VERB pos:VERB pos:ADP pos:DET pos:NOUN pos:ADP pos:PRON pos:VERB pos:ADV pos:ADP pos:PRON
+pos:PRON pos:VERB pos:ADP pos:VERB pos:NOUN
+pos:PRON pos:VERB pos:VERB pos:NOUN pos:ADP pos:NOUN pos:PRON pos:VERB
+pos:PRON pos:VERB pos:ADV pos:VERB pos:PRON pos:DET pos:NOUN pos:NOUN
+pos:VERB pos:CONJ pos:VERB pos:PRON
+pos:NOUN pos:VERB pos:PRON pos:NOUN pos:ADV
+pos:PRON pos:VERB pos:VERB pos:PRT pos:VERB pos:ADJ
+pos:ADV pos:PRON pos:VERB pos:VERB pos:ADJ pos:PRT pos:VERB pos:DET pos:NOUN pos:CONJ pos:ADV pos:VERB pos:DET pos:NOUN
+pos:PRON pos:ADV pos:VERB pos:ADV pos:VERB pos:NOUN pos:PRT pos:VERB pos:ADP pos:PRON pos:CONJ pos:DET pos:VERB pos:DET pos:ADJ pos:NOUN
+pos:DET pos:ADJ pos:PRON pos:VERB pos:ADV pos:ADP pos:PRON pos:VERB pos:VERB pos:PRON pos:VERB pos:ADV pos:VERB pos:DET pos:NOUN
+pos:PRON pos:VERB pos:VERB pos:PRON pos:ADP pos:PRON pos:VERB pos:PRT pos:VERB pos:PRT pos:DET pos:NOUN pos:CONJ pos:VERB pos:ADP pos:PRON pos:VERB pos:VERB pos:DET pos:NOUN
+pos:PRON pos:VERB pos:DET pos:NOUN pos:VERB pos:CONJ pos:PRON pos:VERB pos:ADV pos:VERB pos:PRON
+pos:ADV pos:VERB pos:ADV pos:PRON pos:VERB pos:PRON pos:PRON pos:ADP pos:PRON pos:VERB pos:PRON
+pos:DET pos:NOUN pos:VERB pos:PRON pos:NOUN pos:CONJ pos:VERB
+pos:ADV pos:PRON pos:VERB pos:PRT pos:ADV pos:PRON pos:VERB pos:ADV pos:VERB
+pos:ADJ
+pos:VERB pos:PRON pos:PRON pos:NOUN
+pos:PRON pos:VERB pos:VERB pos:DET pos:ADJ pos:NOUN
+pos:PRON pos:VERB pos:PRT pos:VERB pos:PRON pos:NOUN pos:PRT pos:NOUN pos:CONJ pos:NOUN pos:ADV
+pos:PRON pos:VERB pos:PRON pos:ADV pos:VERB pos:PRON pos:VERB pos:ADP pos:DET pos:NOUN
+pos:ADV pos:NOUN pos:ADP pos:PRON pos:VERB pos:ADJ
+pos:ADP pos:DET pos:NOUN pos:DET pos:VERB pos:DET pos:NOUN pos:ADP pos:DET pos:NOUN
+pos:NOUN pos:PRT pos:NOUN pos:VERB pos:PRT
+pos:NOUN
+pos:NOUN pos:VERB pos:ADV
+pos:PRON pos:VERB pos:PRON pos:NOUN pos:PRON pos:VERB
+pos:NUM pos:NOUN pos:ADV pos:ADP pos:NOUN pos:VERB pos:VERB pos:PRON pos:NOUN pos:DET pos:NOUN pos:VERB pos:CONJ pos:VERB pos:NOUN
+pos:NOUN pos:VERB pos:DET pos:ADJ pos:CONJ pos:ADJ pos:NOUN pos:NOUN pos:ADP pos:DET pos:NOUN pos:ADV pos:CONJ pos:ADV pos:CONJ pos:VERB pos:VERB pos:PRT pos:VERB pos:DET pos:NOUN pos:ADV pos:VERB pos:PRT pos:VERB pos:PRON pos:NOUN
+pos:NOUN pos:VERB pos:PRT pos:VERB pos:DET pos:ADV pos:ADJ pos:CONJ pos:ADP pos:NOUN pos:VERB pos:PRON pos:VERB pos:ADP pos:ADP pos:DET pos:ADJ pos:ADJ pos:NOUN pos:VERB pos:ADV pos:VERB pos:ADV pos:CONJ pos:ADP pos:DET pos:ADJ pos:NOUN pos:ADP pos:DET pos:NOUN
+pos:DET pos:NOUN pos:ADP pos:NOUN pos:PRON pos:VERB pos:PRT pos:PRON pos:NOUN pos:CONJ pos:VERB pos:VERB pos:DET pos:ADJ pos:NOUN pos:ADP pos:ADP pos:NOUN pos:ADP pos:PRON pos:VERB
+pos:DET pos:ADJ pos:NOUN pos:NOUN pos:DET pos:NOUN pos:VERB pos:NOUN pos:ADV pos:PRON pos:VERB pos:VERB pos:DET pos:NOUN pos:ADV
+pos:DET pos:NOUN pos:ADP pos:NOUN pos:VERB pos:PRON pos:ADP pos:PRON pos:NOUN pos:ADP pos:DET pos:NOUN pos:CONJ pos:PRON pos:VERB
+pos:PRON pos:VERB pos:ADP pos:ADJ pos:NOUN pos:ADV pos:ADP pos:DET pos:NOUN pos:CONJ pos:VERB pos:DET pos:ADJ pos:NOUN pos:ADV pos:. pos:PRON pos:VERB pos:ADV pos:ADJ pos:CONJ pos:ADJ pos:ADV pos:ADP pos:ADP pos:NOUN pos:VERB pos:DET pos:NOUN pos:ADP pos:PRON pos:NOUN
+pos:NOUN pos:VERB pos:CONJ pos:VERB pos:PRON
+pos:PRON pos:VERB pos:ADV pos:PRT pos:VERB pos:NOUN
+pos:ADP pos:NOUN pos:DET pos:NOUN pos:VERB pos:ADV pos:ADJ
+pos:ADV pos:NOUN pos:NOUN pos:NOUN pos:VERB pos:DET pos:ADJ pos:NOUN pos:ADP pos:ADJ pos:NOUN pos:PRT pos:PRON pos:NOUN pos:NOUN pos:CONJ pos:VERB pos:DET pos:NOUN pos:VERB pos:VERB pos:NOUN pos:ADP pos:PRON
+pos:VERB pos:NOUN pos:ADP pos:NOUN pos:PRON pos:VERB pos:VERB pos:PRT pos:VERB pos:DET pos:NOUN pos:NOUN pos:VERB pos:ADP pos:NOUN pos:ADP pos:DET pos:NOUN pos:NOUN
+pos:ADP pos:DET pos:NOUN pos:NOUN pos:VERB pos:VERB pos:ADV pos:VERB pos:ADV
+pos:PRON pos:NOUN pos:VERB pos:ADP pos:DET pos:ADJ pos:NOUN pos:ADP pos:PRON pos:VERB pos:NUM pos:ADP pos:PRON pos:NOUN pos:NOUN pos:PRON pos:VERB pos:VERB
+pos:DET pos:NOUN pos:VERB pos:VERB
+pos:ADV pos:DET pos:NOUN pos:PRON pos:VERB pos:PRON pos:VERB pos:VERB pos:ADP pos:DET pos:NOUN pos:ADP pos:ADP pos:DET pos:ADJ pos:NOUN pos:CONJ pos:NOUN
+pos:PRON pos:VERB pos:ADV pos:VERB pos:ADV
+pos:NOUN pos:VERB pos:DET pos:NOUN pos:. pos:ADV pos:DET pos:ADJ pos:NOUN pos:ADV pos:PRON pos:NOUN pos:VERB pos:ADP pos:DET pos:NOUN pos:ADV pos:ADP pos:DET pos:NOUN pos:NOUN pos:NOUN
+pos:NOUN pos:VERB pos:ADP pos:NOUN pos:VERB pos:PRON pos:ADJ pos:NOUN pos:ADP pos:PRON pos:VERB pos:DET pos:NOUN pos:VERB pos:ADP pos:PRON pos:NOUN
+pos:PRON pos:VERB pos:NOUN pos:ADP pos:ADV pos:ADJ pos:PRON pos:VERB pos:CONJ pos:VERB pos:ADP pos:ADJ pos:NOUN pos:PRT pos:DET pos:NOUN
+pos:ADV pos:ADP pos:PRON pos:NOUN pos:PRON pos:VERB pos:DET pos:NOUN pos:ADP pos:VERB pos:NOUN pos:CONJ pos:VERB pos:ADV pos:ADP pos:DET pos:NOUN
+pos:ADP pos:DET pos:NOUN pos:PRON pos:VERB pos:PRT pos:VERB pos:ADV pos:ADP pos:PRON pos:ADV pos:ADV pos:DET pos:NOUN pos:VERB pos:PRT pos:VERB pos:DET pos:NOUN
+pos:CONJ pos:ADP pos:DET pos:ADV pos:VERB pos:PRON
+pos:ADV pos:ADV pos:PRON pos:ADV pos:VERB pos:PRON pos:ADP pos:PRON pos:VERB pos:DET pos:NOUN pos:. pos:ADV pos:DET pos:NOUN
+pos:DET pos:NOUN pos:ADV pos:VERB pos:NOUN pos:PRT pos:VERB pos:ADP pos:PRON pos:ADP pos:NOUN
+pos:NOUN pos:VERB pos:ADJ pos:ADP pos:ADP pos:ADJ pos:PRON pos:VERB pos:ADJ pos:ADP pos:DET pos:ADJ pos:NOUN
+pos:ADP pos:DET pos:DET pos:NOUN pos:VERB pos:DET pos:NOUN pos:ADP pos:DET pos:NOUN pos:VERB pos:CONJ pos:NOUN pos:VERB pos:ADJ pos:PRT pos:ADP pos:PRON
+pos:ADV pos:PRON pos:VERB pos:PRT pos:PRON pos:NOUN pos:VERB pos:DET pos:NOUN pos:ADV pos:ADP pos:DET pos:NOUN
+pos:ADV pos:PRON pos:VERB pos:PRON pos:VERB pos:ADV pos:VERB pos:PRON pos:PRON pos:VERB
+pos:DET pos:NOUN pos:PRT pos:NOUN pos:VERB pos:ADJ pos:CONJ pos:ADJ pos:ADP pos:ADP pos:NOUN pos:NOUN pos:VERB pos:VERB pos:PRON pos:NOUN
+pos:PRON pos:VERB pos:ADP pos:DET pos:ADJ pos:ADJ pos:NOUN pos:CONJ pos:ADV pos:DET pos:NOUN pos:VERB pos:VERB pos:PRT pos:VERB pos:PRT pos:NOUN pos:ADP pos:DET pos:NOUN
+pos:ADV pos:NOUN pos:VERB pos:PRON pos:VERB pos:ADV pos:DET pos:NOUN
+pos:PRON pos:VERB pos:VERB pos:ADV pos:ADJ pos:CONJ pos:PRON pos:VERB pos:ADV pos:PRON pos:VERB
+pos:PRON pos:VERB pos:DET pos:ADJ pos:NOUN pos:CONJ pos:PRON pos:VERB pos:NUM pos:NOUN pos:ADV pos:. pos:NOUN pos:NOUN pos:ADV pos:PRON pos:VERB pos:DET pos:NOUN pos:PRT pos:VERB pos:ADJ pos:ADP pos:ADJ
+pos:PRON pos:VERB pos:VERB pos:VERB pos:ADP pos:DET pos:ADJ pos:NOUN pos:ADP pos:DET pos:ADJ pos:NOUN pos:ADV pos:ADP pos:DET pos:ADJ pos:ADJ pos:NOUN
+pos:PRON pos:VERB pos:VERB pos:DET pos:ADJ pos:NOUN pos:ADP pos:VERB pos:PRON pos:NOUN pos:NOUN pos:ADP pos:NOUN pos:ADV pos:VERB pos:ADP pos:NOUN
+pos:DET pos:ADJ pos:NOUN pos:VERB pos:ADV pos:DET pos:NOUN
+pos:PRON pos:VERB pos:ADV pos:ADV pos:VERB pos:ADP pos:PRON
+pos:ADP pos:NOUN pos:PRON pos:VERB pos:ADV pos:VERB pos:PRON pos:ADP pos:DET pos:NOUN pos:ADP pos:DET pos:NOUN
+pos:PRON pos:ADJ pos:NOUN pos:VERB pos:NOUN
+pos:ADP pos:DET pos:NOUN pos:ADP pos:PRON pos:ADJ pos:ADJ pos:NOUN pos:ADP pos:PRON pos:VERB pos:ADV pos:VERB pos:ADJ pos:NOUN pos:ADP pos:DET pos:NOUN pos:ADP pos:DET pos:NOUN pos:ADP pos:DET pos:NOUN pos:PRON pos:VERB pos:ADJ pos:ADP pos:PRON pos:VERB pos:ADV pos:ADV
+pos:PRON pos:VERB pos:PRT pos:ADP pos:ADJ pos:NOUN pos:CONJ pos:VERB pos:DET pos:NOUN pos:VERB pos:ADP pos:DET pos:NOUN pos:VERB pos:DET pos:ADJ pos:NOUN pos:ADP pos:PRON pos:ADP pos:ADP pos:PRON pos:VERB pos:ADJ pos:NOUN
+pos:PRON pos:VERB pos:ADV pos:ADV pos:VERB pos:. pos:PRON pos:VERB pos:PRON pos:NOUN pos:NOUN pos:. pos:PRON pos:VERB pos:ADV pos:VERB pos:PRON pos:VERB
+pos:DET pos:NOUN pos:VERB pos:ADJ pos:ADP pos:DET pos:NOUN pos:CONJ pos:VERB pos:ADP pos:ADJ pos:NOUN pos:ADP pos:DET pos:NOUN
+pos:NOUN pos:VERB pos:VERB pos:ADJ pos:CONJ pos:PRON pos:VERB pos:ADV pos:VERB pos:ADP pos:DET pos:NOUN pos:ADP pos:DET pos:ADJ pos:ADJ pos:ADJ pos:NOUN
+pos:PRON pos:VERB pos:PRT pos:VERB pos:ADP pos:PRON pos:VERB pos:ADV pos:VERB pos:ADP pos:ADJ pos:NOUN pos:ADV pos:DET pos:NOUN pos:VERB pos:ADP pos:DET pos:NOUN
+pos:VERB pos:PRON pos:VERB pos:PRT pos:VERB pos:VERB pos:ADP pos:ADV pos:ADP pos:ADP pos:DET pos:NOUN pos:ADP pos:DET pos:NOUN
+pos:PRON pos:VERB pos:VERB pos:PRT pos:VERB pos:VERB pos:PRT pos:DET pos:ADP pos:DET pos:ADJ pos:NOUN pos:ADV
+pos:ADP pos:DET pos:ADJ pos:NOUN pos:ADV pos:VERB pos:DET pos:NOUN pos:VERB pos:VERB pos:NOUN pos:ADP pos:PRON pos:VERB pos:ADJ pos:ADP pos:DET pos:NOUN pos:DET pos:NOUN pos:VERB pos:VERB pos:VERB pos:PRON pos:NOUN
+pos:PRON pos:VERB pos:DET pos:NOUN pos:ADP pos:VERB pos:ADP pos:DET pos:ADJ pos:NOUN pos:CONJ pos:ADV pos:VERB pos:ADP pos:PRON pos:NOUN pos:VERB pos:VERB pos:VERB pos:ADP pos:PRON pos:NOUN pos:CONJ pos:NOUN
+pos:NOUN pos:VERB pos:ADV pos:ADV pos:VERB pos:ADJ pos:CONJ pos:ADJ
+pos:NOUN pos:VERB pos:ADV pos:VERB pos:PRT pos:VERB pos:PRON pos:NOUN pos:CONJ pos:VERB pos:PRON pos:VERB pos:PRT pos:VERB pos:PRON pos:DET pos:NOUN pos:NOUN pos:PRT pos:VERB pos:ADJ pos:NOUN
+pos:CONJ pos:DET pos:VERB pos:DET pos:NOUN
+pos:DET pos:NOUN pos:VERB pos:ADP pos:PRON pos:NOUN pos:ADV pos:VERB pos:ADP pos:NOUN pos:PRT pos:NOUN pos:ADP pos:NOUN
+pos:PRT pos:VERB pos:DET pos:ADJ pos:NOUN pos:NOUN pos:VERB pos:PRT pos:VERB
+pos:ADP pos:NOUN pos:CONJ pos:NUM pos:NOUN pos:ADV pos:PRON pos:VERB pos:VERB pos:ADV pos:ADP pos:PRON pos:NOUN pos:PRON pos:VERB pos:ADP pos:DET pos:NOUN pos:ADP pos:NUM pos:NOUN pos:CONJ pos:ADV pos:ADV pos:PRON pos:VERB pos:DET pos:ADJ pos:NOUN pos:ADP pos:PRON pos:NOUN pos:. pos:PRON pos:VERB pos:ADP pos:DET pos:ADJ pos:NOUN pos:CONJ pos:DET pos:ADV pos:ADJ pos:NOUN
+pos:ADV pos:PRON pos:VERB pos:PRT pos:VERB pos:PRON pos:NOUN pos:DET pos:NOUN pos:VERB
+pos:CONJ pos:ADV pos:VERB pos:PRON pos:NOUN
+pos:ADP pos:PRON pos:VERB pos:ADP pos:ADJ pos:NOUN pos:CONJ pos:ADP pos:PRON pos:VERB pos:PRON pos:ADP pos:PRON pos:VERB pos:ADV pos:ADV pos:ADV pos:VERB pos:PRON
+pos:NOUN pos:VERB
+pos:DET pos:NOUN pos:VERB pos:VERB pos:DET pos:NOUN pos:PRON pos:VERB
+pos:ADV pos:PRON pos:VERB pos:VERB pos:NOUN pos:ADP pos:NOUN pos:PRON pos:VERB
+pos:NOUN pos:NOUN pos:. pos:PRON pos:VERB
+pos:PRON pos:VERB pos:VERB pos:PRT pos:VERB pos:PRON pos:NOUN pos:PRT pos:VERB pos:PRON pos:PRT pos:ADP pos:PRON pos:NOUN
+pos:PRON pos:VERB pos:VERB pos:ADJ
+pos:NOUN pos:VERB pos:ADV
+pos:X pos:X
+pos:ADV pos:PRON pos:VERB
+pos:PRON pos:VERB pos:VERB pos:PRON pos:VERB pos:ADV pos:VERB pos:ADP pos:DET pos:NOUN pos:ADV pos:ADV
+pos:PRON pos:VERB pos:PRT pos:ADV pos:PRT pos:VERB
+pos:DET pos:VERB pos:ADV pos:PRON pos:. pos:ADV pos:PRON pos:VERB pos:DET pos:ADJ pos:NOUN pos:ADV pos:CONJ pos:ADV
+pos:PRON pos:VERB pos:VERB pos:VERB pos:PRON pos:ADP pos:PRON pos:ADP
+pos:NOUN pos:VERB pos:DET pos:NOUN pos:ADP pos:NOUN pos:ADV pos:PRON pos:VERB pos:DET pos:ADV pos:ADJ pos:NOUN pos:ADV
+pos:ADV pos:DET pos:ADJ pos:NOUN pos:VERB pos:NOUN pos:ADP pos:PRON pos:ADJ pos:NOUN
+pos:VERB pos:. pos:ADV pos:VERB pos:DET pos:NOUN pos:VERB pos:ADV pos:PRON pos:PRON pos:VERB pos:PRON pos:VERB pos:NOUN
+pos:DET pos:ADJ pos:ADJ pos:NOUN
+pos:ADP pos:PRON pos:VERB pos:ADV pos:DET pos:NOUN pos:DET pos:NOUN pos:VERB pos:VERB
+pos:CONJ pos:ADP pos:PRON pos:VERB pos:DET pos:NOUN pos:PRON pos:VERB pos:VERB pos:NOUN pos:ADP pos:NOUN
+pos:PRON pos:VERB pos:ADV pos:ADJ pos:ADV pos:ADJ pos:ADP pos:PRON pos:ADP pos:PRON pos:VERB pos:ADP pos:DET pos:ADJ pos:NOUN pos:PRT pos:NOUN
+pos:DET pos:NOUN pos:VERB pos:PRON pos:VERB pos:ADV
+pos:CONJ pos:PRON pos:VERB pos:ADV pos:DET pos:. pos:ADV pos:PRON pos:VERB
+pos:DET pos:NOUN pos:VERB pos:ADV pos:VERB pos:DET pos:NOUN pos:CONJ pos:PRON pos:VERB pos:PRON pos:VERB pos:DET pos:NOUN
+pos:ADP pos:DET pos:PRON pos:VERB pos:ADV pos:VERB pos:PRON pos:NOUN
+pos:PRON pos:VERB pos:VERB pos:VERB pos:DET pos:NOUN
+pos:PRON pos:VERB pos:ADV
+pos:CONJ pos:ADP pos:PRON pos:VERB pos:PRON pos:VERB pos:PRON
+pos:DET pos:NOUN pos:VERB pos:VERB
+pos:PRON pos:NOUN pos:VERB pos:ADV
+pos:X pos:ADV pos:PRON pos:VERB pos:ADV
+pos:ADV pos:PRON pos:VERB pos:ADP pos:DET pos:NOUN
+pos:PRON pos:ADV pos:VERB pos:PRON pos:DET pos:NOUN pos:. pos:CONJ pos:ADV pos:ADP pos:DET pos:NOUN pos:ADV pos:DET pos:NOUN pos:VERB pos:DET pos:NOUN
+pos:VERB pos:PRON pos:VERB pos:PRON pos:NOUN
+pos:PRON pos:VERB pos:PRON pos:VERB pos:VERB pos:NUM pos:ADJ pos:NOUN pos:ADP pos:PRON
+pos:PRON pos:VERB pos:ADV
+pos:NOUN pos:VERB pos:DET pos:NOUN pos:ADP pos:DET pos:NOUN pos:ADP pos:PRON pos:NOUN
+pos:NOUN pos:PRT pos:NOUN pos:ADP pos:DET pos:NOUN pos:ADJ pos:NOUN pos:ADP pos:DET pos:NOUN pos:NOUN pos:DET pos:VERB pos:ADV pos:VERB pos:DET pos:ADJ pos:ADJ pos:NOUN pos:ADP pos:NOUN pos:NOUN pos:VERB pos:DET pos:NOUN pos:ADP pos:ADP pos:ADJ pos:ADP pos:DET pos:ADJ pos:NOUN pos:ADJ pos:NOUN pos:NOUN pos:VERB pos:VERB pos:ADP pos:DET pos:NOUN pos:ADP pos:DET pos:ADJ pos:NOUN
+pos:ADP pos:ADV pos:NUM pos:ADJ pos:NOUN pos:NOUN pos:ADV pos:PRT pos:NUM pos:VERB pos:ADJ pos:ADP pos:NUM pos:NOUN pos:ADP pos:DET pos:NOUN pos:PRT pos:ADJ pos:NOUN pos:VERB pos:DET pos:ADJ pos:NOUN pos:PRT pos:NOUN pos:ADP pos:DET pos:NOUN pos:NOUN pos:ADP pos:ADP pos:DET pos:NOUN pos:ADP pos:NOUN
+pos:ADV pos:DET pos:NOUN pos:ADV pos:VERB pos:DET pos:ADJ pos:CONJ pos:ADV pos:VERB pos:VERB pos:ADP pos:NUM pos:NOUN
+pos:ADP pos:PRON pos:VERB pos:NOUN pos:VERB pos:PRT pos:VERB pos:NOUN pos:ADV pos:ADP pos:NOUN pos:ADP pos:NOUN pos:ADP pos:ADP pos:DET pos:ADP pos:NOUN
+pos:ADP pos:DET pos:ADJ pos:NOUN pos:ADP pos:DET pos:ADJ pos:NOUN pos:ADP pos:ADP pos:DET pos:NOUN pos:ADJ pos:NOUN pos:DET pos:NOUN pos:VERB pos:VERB pos:DET pos:ADJ pos:NOUN pos:ADP pos:DET pos:ADJ pos:NOUN pos:ADJ pos:NOUN pos:ADP pos:NOUN pos:ADP pos:PRON pos:VERB pos:ADP pos:ADJ pos:NOUN pos:CONJ pos:DET pos:ADJ pos:NOUN pos:ADP pos:NOUN
+pos:ADV pos:PRT pos:NUM pos:DET pos:NOUN pos:VERB pos:ADV pos:DET pos:NOUN
+pos:PRON pos:VERB pos:ADP pos:DET pos:NOUN pos:ADP pos:ADJ pos:NOUN
+pos:DET pos:ADJ pos:ADJ pos:NOUN pos:VERB pos:VERB pos:ADP pos:ADJ pos:DET pos:ADJ pos:NOUN pos:ADP pos:DET pos:NOUN pos:VERB pos:ADP pos:NOUN pos:ADP pos:DET pos:NOUN
+pos:DET pos:NOUN pos:VERB pos:ADP pos:NUM pos:NOUN
+pos:X pos:. pos:NOUN pos:VERB pos:VERB pos:NUM pos:ADP pos:NUM pos:NOUN pos:ADV pos:PRON pos:VERB pos:PRON pos:ADJ pos:NOUN pos:. pos:DET pos:ADJ pos:NOUN pos:DET pos:VERB pos:ADP pos:DET pos:ADJ pos:NOUN pos:CONJ pos:ADP pos:DET pos:NOUN pos:ADP pos:ADJ pos:NOUN pos:ADP pos:DET pos:NOUN pos:ADP pos:ADJ pos:NOUN pos:CONJ pos:DET pos:ADJ pos:NOUN pos:DET pos:VERB pos:ADP pos:ADJ pos:NOUN pos:CONJ pos:ADP pos:ADJ pos:NOUN pos:PRT pos:VERB pos:DET pos:NOUN pos:ADJ pos:PRT pos:DET pos:NOUN pos:ADP pos:ADJ pos:NOUN
+pos:X pos:. pos:ADJ pos:NOUN pos:VERB pos:NUM pos:ADJ pos:NOUN pos:ADP pos:VERB pos:ADP pos:NOUN pos:. pos:VERB pos:ADP pos:ADJ pos:NOUN pos:. pos:ADJ pos:NOUN pos:ADJ pos:ADP pos:VERB pos:NOUN pos:NOUN pos:ADP pos:NOUN pos:DET pos:VERB pos:NOUN pos:CONJ pos:VERB pos:NOUN pos:ADP pos:DET pos:NOUN pos:ADP pos:ADJ pos:. pos:CONJ pos:VERB pos:PRT pos:ADJ pos:NOUN pos:. pos:NOUN pos:NOUN pos:CONJ pos:NOUN pos:.
+pos:X pos:. pos:ADJ pos:ADJ pos:NOUN pos:ADP pos:ADP pos:PRON pos:NOUN pos:ADP pos:DET pos:ADJ pos:NOUN pos:VERB pos:ADV pos:ADJ pos:PRT pos:VERB pos:ADP pos:ADJ pos:NOUN pos:ADP pos:VERB pos:ADJ pos:NOUN pos:ADP pos:NOUN
+pos:ADP pos:DET pos:NOUN pos:VERB pos:NOUN pos:ADP pos:NOUN pos:ADP pos:NOUN pos:VERB pos:PRON pos:ADP pos:ADJ pos:NOUN pos:VERB pos:VERB pos:DET pos:NOUN pos:PRT pos:NOUN pos:CONJ pos:VERB pos:DET pos:NOUN pos:ADP pos:DET pos:NOUN pos:PRT pos:VERB pos:ADJ
+pos:ADP pos:PRON pos:VERB pos:DET pos:NOUN pos:ADP pos:NOUN pos:ADV pos:ADV pos:VERB pos:PRON pos:VERB pos:ADJ pos:ADP pos:NOUN pos:ADP pos:ADJ pos:NOUN pos:CONJ pos:PRON pos:VERB pos:NOUN pos:VERB pos:VERB pos:ADV pos:ADJ pos:PRT pos:VERB pos:ADJ pos:NOUN pos:ADP pos:VERB pos:NOUN pos:DET pos:NOUN pos:PRT pos:PRON pos:ADJ pos:NOUN
+pos:DET pos:NOUN pos:ADP pos:DET pos:VERB pos:ADV pos:NUM pos:ADP pos:ADP pos:NUM pos:ADV pos:PRON pos:VERB pos:PRT pos:ADJ pos:NOUN pos:NOUN
+pos:ADP pos:NOUN pos:ADP pos:DET pos:NOUN pos:NOUN pos:DET pos:NOUN pos:PRT pos:NOUN pos:ADP pos:DET pos:NOUN pos:VERB pos:PRT pos:VERB pos:NOUN
+pos:ADP pos:DET pos:NOUN pos:NOUN pos:VERB pos:VERB pos:ADJ pos:NOUN pos:PRT pos:DET pos:NOUN pos:PRT pos:ADJ pos:NOUN pos:ADJ pos:DET pos:NOUN pos:VERB pos:ADV pos:ADJ pos:PRT pos:VERB pos:ADV pos:ADJ pos:ADP pos:VERB pos:ADJ pos:NOUN pos:CONJ pos:PRON pos:NOUN pos:ADP pos:VERB pos:DET pos:ADJ pos:NOUN
+pos:DET pos:ADJ pos:NOUN pos:PRT pos:NOUN pos:ADV pos:VERB pos:VERB pos:VERB pos:ADP pos:ADJ pos:NOUN
+pos:ADP pos:DET pos:NOUN pos:VERB pos:ADV pos:ADJ pos:PRON pos:VERB pos:PRT pos:VERB pos:ADJ pos:NOUN
+pos:ADV pos:ADV pos:NOUN pos:NOUN pos:VERB pos:VERB pos:CONJ pos:VERB pos:DET pos:ADJ pos:NOUN pos:ADP pos:PRON pos:VERB pos:ADP pos:DET pos:ADJ pos:NOUN pos:ADV pos:PRT pos:DET pos:NOUN pos:ADP pos:NOUN pos:NOUN pos:ADP pos:NOUN pos:CONJ pos:DET pos:NOUN pos:ADP pos:DET pos:NOUN pos:NOUN pos:NOUN pos:VERB pos:DET pos:ADV pos:ADJ pos:NOUN pos:ADP pos:NOUN pos:CONJ pos:DET pos:NOUN pos:PRT pos:NOUN pos:NOUN pos:VERB pos:NOUN pos:ADP pos:NOUN pos:ADP pos:NOUN pos:VERB pos:ADV pos:ADV pos:ADJ
+pos:ADV pos:PRON pos:VERB pos:ADV pos:NOUN pos:VERB pos:NOUN pos:ADP pos:NOUN pos:CONJ pos:ADV pos:VERB pos:PRON pos:ADJ pos:ADJ pos:NOUN pos:DET pos:ADJ pos:NOUN pos:PRT pos:NOUN pos:VERB pos:DET pos:ADJ pos:NOUN pos:ADP pos:DET pos:NOUN pos:VERB pos:ADP pos:PRON pos:CONJ pos:ADV pos:DET pos:ADJ pos:NOUN pos:VERB pos:ADP pos:DET pos:ADJ pos:NOUN pos:VERB pos:ADV pos:ADP pos:PRON pos:ADJ pos:NOUN
+pos:ADV pos:DET pos:NOUN pos:VERB pos:ADV pos:NOUN pos:PRON pos:VERB pos:ADV pos:ADJ pos:NOUN pos:PRT pos:ADJ pos:NOUN pos:NOUN pos:ADJ pos:PRT pos:ADJ pos:NOUN pos:VERB pos:ADJ pos:NOUN pos:ADP pos:NOUN
+pos:ADV pos:ADJ pos:NOUN pos:ADP pos:DET pos:NOUN pos:ADV pos:DET pos:ADV pos:ADJ pos:ADP pos:NOUN pos:VERB pos:VERB pos:ADV pos:ADJ pos:PRT pos:VERB
+pos:DET pos:NUM pos:NOUN pos:PRT pos:DET pos:ADJ pos:NOUN pos:VERB pos:DET pos:NOUN pos:ADP pos:NUM pos:ADP pos:DET pos:NUM pos:NOUN pos:NOUN pos:VERB pos:ADP pos:NOUN pos:ADP pos:NUM pos:ADP pos:DET pos:NOUN pos:NOUN pos:CONJ pos:VERB pos:ADP pos:NOUN pos:ADP pos:NUM
+pos:ADP pos:DET pos:NOUN pos:VERB pos:ADV pos:ADJ pos:NOUN pos:ADP pos:PRON pos:ADJ pos:NOUN pos:. pos:VERB pos:DET pos:NOUN pos:NOUN pos:. pos:ADP pos:ADJ pos:NOUN pos:VERB pos:PRON pos:VERB pos:ADV pos:ADJ pos:PRT pos:VERB
+pos:ADJ pos:DET pos:NOUN pos:VERB pos:ADV pos:DET pos:NOUN pos:NOUN pos:VERB pos:VERB pos:DET pos:ADJ pos:NOUN pos:VERB pos:ADJ pos:NOUN pos:ADP pos:ADJ pos:NOUN
+pos:ADJ pos:NOUN pos:VERB pos:VERB pos:VERB pos:ADP pos:VERB pos:ADV pos:ADP pos:DET pos:ADJ pos:NOUN pos:ADP pos:ADP pos:DET pos:NOUN pos:ADP pos:NOUN pos:ADP pos:DET pos:NOUN pos:ADP pos:DET pos:ADJ pos:NOUN
+pos:PRT pos:DET pos:NOUN pos:ADP pos:ADJ pos:ADJ pos:NOUN pos:CONJ pos:PRON pos:ADJ pos:NOUN pos:VERB pos:ADP pos:DET pos:ADJ pos:NOUN pos:PRT pos:NOUN pos:NOUN pos:VERB pos:PRT pos:PRON pos:NOUN pos:DET pos:NOUN pos:NOUN pos:VERB pos:VERB pos:VERB pos:ADP pos:PRON pos:NOUN pos:PRT pos:VERB pos:DET pos:ADJ pos:NOUN pos:ADP pos:ADJ pos:NOUN
+pos:ADJ pos:DET pos:NOUN pos:VERB pos:VERB pos:ADP pos:ADJ pos:DET pos:ADJ pos:NOUN pos:ADP pos:ADV pos:NOUN pos:NOUN pos:VERB pos:VERB pos:ADV pos:VERB pos:ADP pos:DET pos:NOUN
+pos:PRT pos:DET pos:NOUN pos:ADP pos:ADJ pos:NOUN pos:ADP pos:DET pos:NOUN pos:VERB pos:VERB pos:DET pos:ADJ pos:NOUN pos:ADP pos:NOUN pos:ADP pos:NOUN pos:ADP pos:NUM pos:CONJ pos:VERB pos:VERB pos:ADJ pos:PRT pos:VERB pos:ADJ pos:NOUN pos:ADP pos:ADV pos:ADV pos:ADJ pos:NOUN pos:ADP pos:PRON pos:ADJ pos:NOUN pos:NOUN pos:ADP pos:DET pos:NOUN pos:VERB pos:VERB pos:DET pos:ADV pos:ADJ pos:NOUN pos:PRT pos:VERB pos:ADJ pos:NOUN pos:ADP pos:NOUN
+pos:ADV pos:DET pos:NOUN pos:VERB pos:ADV pos:NOUN pos:ADV pos:VERB pos:VERB pos:ADV pos:ADP pos:NOUN pos:NOUN pos:ADP pos:ADP pos:NOUN pos:ADP pos:DET pos:NOUN
+pos:ADP pos:ADJ pos:NOUN pos:VERB pos:ADV pos:CONJ pos:ADJ pos:NOUN pos:NOUN pos:VERB pos:ADV pos:ADP pos:DET pos:ADJ pos:NOUN pos:ADP pos:NOUN pos:DET pos:VERB pos:ADV pos:DET pos:NOUN pos:PRON pos:VERB pos:VERB pos:ADP pos:NOUN pos:VERB pos:ADV pos:ADJ pos:PRT pos:VERB pos:ADP pos:ADJ pos:NOUN pos:ADP pos:PRON pos:ADJ pos:NOUN
+pos:VERB pos:ADV pos:DET pos:ADJ pos:NOUN pos:ADP pos:DET pos:NOUN
+pos:NUM pos:NOUN pos:ADP pos:NOUN pos:VERB pos:DET pos:ADJ pos:NOUN pos:ADP pos:ADJ pos:NOUN pos:VERB pos:ADV pos:ADJ pos:PRT pos:VERB pos:ADP pos:ADJ pos:NOUN pos:ADP pos:PRON pos:ADJ pos:NOUN
+pos:ADJ pos:NOUN pos:NOUN pos:NOUN pos:CONJ pos:NOUN pos:NOUN pos:VERB pos:ADP pos:NOUN pos:NOUN pos:VERB pos:ADV pos:NUM pos:ADJ pos:ADP pos:PRON pos:VERB pos:ADJ pos:NOUN pos:NOUN pos:ADP pos:NOUN pos:VERB
+pos:PRT pos:DET pos:NOUN pos:ADP pos:DET pos:ADJ pos:NOUN pos:ADP pos:ADJ pos:NOUN pos:VERB pos:ADJ pos:NOUN pos:DET pos:VERB pos:ADP pos:ADJ pos:NOUN pos:VERB pos:ADJ pos:NOUN pos:PRT pos:VERB pos:ADJ pos:NOUN pos:PRT pos:ADJ pos:NOUN pos:NOUN
+pos:ADJ pos:ADP pos:DET pos:ADJ pos:NOUN pos:VERB pos:ADJ pos:NOUN pos:VERB pos:VERB pos:ADJ pos:NOUN pos:NOUN pos:ADP pos:NOUN pos:NOUN pos:ADP pos:NOUN pos:VERB pos:PRT pos:DET pos:NOUN pos:ADP pos:ADJ pos:NOUN pos:VERB pos:ADJ pos:NOUN pos:NOUN pos:CONJ pos:ADP pos:VERB pos:ADP pos:ADJ pos:NOUN pos:VERB pos:ADV pos:ADP pos:DET pos:NOUN pos:DET pos:NOUN pos:VERB pos:ADV pos:VERB pos:PRT pos:ADJ pos:NOUN
+pos:DET pos:VERB pos:ADV pos:PRON pos:DET pos:NOUN pos:VERB pos:ADV pos:ADP pos:DET pos:NOUN pos:ADP pos:DET pos:NOUN
+pos:DET pos:ADJ pos:NOUN pos:NOUN pos:NOUN pos:VERB pos:ADV pos:VERB pos:DET pos:ADJ pos:NOUN pos:NOUN pos:NOUN pos:ADP pos:NUM
+pos:ADV pos:ADP pos:NOUN pos:ADP pos:DET pos:NOUN pos:NOUN pos:VERB pos:DET pos:ADJ pos:NOUN pos:ADP pos:PRON pos:ADJ pos:NOUN pos:PRT pos:NOUN pos:NOUN pos:. pos:ADV pos:ADJ pos:NOUN pos:NOUN pos:VERB pos:ADV pos:CONJ pos:ADJ pos:NOUN pos:NOUN pos:NOUN pos:VERB pos:ADV pos:ADJ pos:PRT pos:NOUN pos:NOUN
+pos:DET pos:NOUN pos:ADP pos:NOUN pos:ADP pos:ADJ pos:NOUN pos:NOUN pos:ADP pos:DET pos:NOUN pos:ADP pos:NUM pos:CONJ pos:NUM pos:. pos:ADV pos:NOUN pos:ADP pos:DET pos:NOUN pos:VERB pos:NOUN pos:NOUN pos:. pos:ADV pos:VERB pos:ADP pos:DET pos:ADJ pos:NOUN pos:NOUN pos:VERB pos:ADP pos:DET pos:NOUN pos:VERB pos:ADV pos:VERB pos:VERB pos:PRT pos:DET pos:ADJ pos:NOUN pos:NOUN pos:VERB pos:ADJ pos:PRT pos:PRON pos:NOUN pos:NOUN pos:ADP pos:ADJ pos:NOUN pos:ADJ pos:ADP pos:NOUN pos:NOUN
+pos:DET pos:ADJ pos:NOUN pos:ADP pos:NOUN pos:ADP pos:DET pos:NOUN pos:VERB pos:ADJ pos:NOUN pos:ADJ pos:ADJ pos:ADP pos:NOUN pos:NOUN pos:CONJ pos:ADJ pos:NOUN pos:DET pos:NOUN pos:ADP pos:ADJ pos:NOUN pos:ADP pos:ADJ pos:ADJ pos:CONJ pos:ADJ pos:NOUN pos:ADP pos:NOUN pos:VERB pos:DET pos:NOUN pos:NOUN pos:VERB pos:PRT pos:VERB pos:DET pos:ADJ pos:NOUN pos:ADP pos:ADV pos:ADJ pos:DET pos:NOUN pos:PRT pos:NOUN pos:NOUN pos:VERB pos:ADP pos:NOUN pos:. pos:DET pos:ADJ pos:NOUN pos:VERB pos:ADJ pos:NOUN pos:NOUN pos:ADV pos:.
+pos:VERB pos:ADV pos:ADV pos:NOUN pos:NOUN pos:ADP pos:NOUN pos:VERB pos:VERB pos:ADV pos:ADV pos:ADP pos:NOUN pos:ADP pos:ADJ pos:NOUN pos:ADP pos:DET pos:NOUN pos:ADV pos:DET pos:NOUN pos:PRT pos:NOUN pos:VERB pos:ADV pos:ADJ
+pos:ADV pos:NOUN pos:NOUN pos:VERB pos:PRT pos:VERB pos:DET pos:ADJ pos:ADJ pos:NOUN pos:ADP pos:DET pos:NOUN pos:NOUN pos:NOUN pos:ADP pos:PRON pos:VERB pos:ADP pos:DET pos:ADJ pos:NOUN
+pos:NOUN pos:NOUN pos:VERB pos:ADV pos:ADV pos:VERB pos:ADP pos:NOUN pos:ADJ pos:NOUN pos:ADP pos:DET pos:NOUN
+pos:DET pos:ADJ pos:ADJ pos:NOUN pos:ADV pos:VERB pos:ADP pos:VERB pos:ADJ pos:NOUN pos:ADJ pos:DET pos:NOUN pos:ADP pos:DET pos:NOUN pos:PRT pos:ADJ pos:NOUN pos:NOUN pos:VERB pos:PRT pos:DET pos:ADJ pos:ADJ pos:NOUN pos:CONJ pos:DET pos:ADJ pos:NOUN pos:ADP pos:DET pos:ADJ pos:NOUN pos:NOUN pos:VERB pos:DET pos:ADJ pos:NOUN pos:ADP pos:DET pos:NOUN pos:NOUN
+pos:ADP pos:NOUN pos:ADP pos:CONJ pos:DET pos:ADJ pos:CONJ pos:NOUN pos:NOUN pos:NOUN pos:ADP pos:ADJ pos:NOUN pos:ADP pos:DET pos:ADV pos:ADJ pos:NOUN pos:NOUN pos:VERB pos:ADP pos:DET pos:NOUN pos:VERB pos:VERB pos:DET pos:ADV pos:ADJ pos:NOUN
+pos:NOUN pos:NOUN pos:VERB pos:ADP pos:DET pos:NOUN pos:ADP pos:NOUN pos:NOUN pos:PRT pos:NOUN
+pos:ADP pos:DET pos:ADJ pos:ADJ pos:NOUN pos:ADP pos:NOUN pos:PRT pos:VERB pos:NOUN pos:NOUN pos:NOUN pos:NOUN pos:VERB pos:ADP pos:NOUN pos:CONJ pos:NOUN pos:ADV pos:PRON pos:VERB
+pos:DET pos:VERB pos:PRON pos:ADP pos:DET pos:NOUN pos:ADP pos:DET pos:NOUN
+pos:NOUN pos:ADP pos:NOUN pos:VERB pos:PRON pos:NOUN pos:PRT pos:PRON pos:NOUN pos:ADP pos:DET pos:NOUN pos:CONJ pos:VERB pos:PRT pos:ADP pos:DET pos:ADJ pos:ADP pos:ADJ pos:NOUN pos:DET pos:VERB pos:NOUN pos:ADJ pos:ADP pos:NOUN
+pos:DET pos:ADP pos:DET pos:ADV pos:ADJ pos:NOUN pos:VERB pos:ADP pos:DET pos:NOUN pos:DET pos:NOUN pos:NOUN pos:NOUN pos:DET pos:VERB pos:NUM pos:ADP pos:DET pos:ADJ pos:NOUN pos:ADP pos:DET pos:ADJ pos:NOUN
+pos:ADP pos:NOUN pos:ADP pos:DET pos:NOUN pos:PRT pos:NUM pos:NOUN pos:VERB pos:ADP pos:DET pos:NOUN pos:NOUN
+pos:DET pos:NOUN pos:VERB pos:DET pos:NOUN pos:PRT pos:ADP pos:NUM pos:NOUN pos:CONJ pos:ADV pos:PRON pos:VERB pos:ADV pos:ADV pos:PRON pos:VERB pos:ADP pos:ADJ pos:ADJ pos:NOUN
+pos:VERB pos:VERB pos:NOUN pos:ADP pos:DET pos:ADJ pos:NOUN pos:ADP pos:NOUN
+pos:DET pos:NOUN pos:VERB pos:NOUN pos:NOUN pos:NOUN pos:CONJ pos:DET pos:NOUN pos:CONJ pos:NOUN pos:VERB pos:DET pos:NOUN pos:VERB pos:PRT pos:VERB pos:PRON
+pos:NUM pos:ADV
+pos:NOUN
+pos:X
+pos:PRON pos:VERB pos:ADP pos:DET pos:NOUN pos:ADP pos:DET pos:ADJ pos:NOUN pos:ADP pos:DET pos:ADJ pos:NOUN pos:CONJ pos:ADP pos:ADP pos:PRON pos:NOUN pos:. pos:NOUN pos:NOUN pos:. pos:PRON pos:VERB pos:ADJ
+pos:VERB pos:ADV pos:PRT pos:NOUN pos:CONJ pos:NOUN pos:VERB pos:VERB pos:ADJ pos:NOUN pos:NOUN pos:ADP pos:NOUN pos:ADP pos:DET pos:NOUN pos:NOUN pos:ADJ pos:CONJ pos:VERB pos:ADP pos:DET pos:NOUN
+pos:NUM pos:ADV
+pos:NOUN
+pos:PRON pos:VERB pos:ADP pos:PRON pos:ADJ pos:NOUN pos:NOUN pos:VERB pos:ADP pos:DET pos:NOUN pos:PRT pos:VERB
+pos:PRON pos:VERB pos:DET pos:NOUN pos:VERB pos:CONJ pos:VERB pos:ADP pos:DET pos:NOUN pos:ADJ pos:PRT pos:VERB pos:VERB pos:ADP pos:ADJ pos:NOUN pos:CONJ pos:PRON pos:DET pos:VERB pos:DET pos:NOUN pos:NOUN pos:ADV
+pos:DET pos:VERB pos:ADV pos:ADV pos:ADJ pos:PRON pos:VERB pos:ADP pos:DET pos:NOUN pos:PRT pos:VERB
+pos:DET pos:NOUN pos:PRON pos:ADV pos:VERB pos:ADJ pos:CONJ pos:ADV pos:DET pos:NOUN pos:VERB pos:VERB pos:ADV pos:ADV pos:CONJ pos:ADV pos:ADP pos:ADP pos:PRON pos:VERB pos:DET pos:NOUN pos:PRT pos:NOUN pos:NOUN pos:DET pos:VERB pos:VERB pos:VERB
+pos:NUM pos:ADV
+pos:NOUN
+pos:PRON pos:VERB pos:ADP pos:DET pos:NOUN pos:NOUN pos:NOUN pos:ADV pos:PRON pos:VERB
+pos:ADJ pos:NOUN pos:VERB pos:ADP pos:DET pos:ADJ pos:NOUN pos:VERB pos:VERB pos:CONJ pos:VERB pos:PRON pos:ADP pos:NOUN
+pos:ADV pos:DET pos:ADJ pos:NOUN pos:VERB pos:ADP pos:DET pos:NOUN
+pos:ADV pos:DET pos:NOUN pos:NOUN pos:NOUN pos:NOUN pos:VERB pos:DET pos:ADJ pos:NOUN pos:ADP pos:ADJ pos:NOUN pos:ADP pos:DET pos:NOUN
+pos:NUM pos:ADV
+pos:NOUN
+pos:PRON pos:ADJ pos:NOUN pos:CONJ pos:PRON pos:VERB pos:ADJ
+pos:DET pos:NOUN pos:VERB pos:ADP pos:NOUN pos:CONJ pos:PRON pos:VERB pos:VERB pos:ADJ
+pos:ADP pos:ADP pos:DET pos:NOUN pos:ADP pos:NOUN pos:PRT pos:NOUN pos:NOUN pos:VERB pos:CONJ pos:VERB pos:ADP pos:NOUN pos:NOUN pos:NOUN pos:ADV pos:VERB pos:ADV pos:ADJ
+pos:DET pos:NOUN pos:ADP pos:NOUN pos:NOUN pos:VERB
+pos:DET pos:NOUN pos:VERB pos:ADJ pos:ADP pos:ADJ
+pos:NUM pos:ADV
+pos:NOUN
+pos:ADJ pos:NOUN pos:ADP pos:VERB pos:NOUN pos:ADP pos:DET pos:NOUN pos:ADP pos:NOUN
+pos:NOUN pos:DET pos:VERB pos:VERB pos:ADP pos:NOUN pos:VERB
+pos:DET pos:NOUN pos:ADP pos:DET pos:ADJ pos:NOUN pos:VERB pos:ADJ pos:PRT pos:VERB pos:PRT pos:DET pos:NOUN pos:ADP pos:DET pos:ADJ pos:NOUN pos:ADP pos:NOUN pos:NOUN pos:ADP pos:DET pos:NOUN
+pos:DET pos:NOUN pos:ADV pos:VERB pos:ADV pos:ADV pos:ADP pos:DET pos:NOUN
+pos:NUM pos:ADV
+pos:NOUN
+pos:PRON pos:VERB pos:VERB pos:PRON pos:NOUN pos:VERB pos:ADP pos:DET pos:NOUN pos:ADP pos:DET pos:NOUN pos:ADP pos:NOUN pos:CONJ pos:NOUN pos:ADP pos:DET pos:NOUN pos:NOUN pos:ADV pos:PRON pos:VERB
+pos:ADJ pos:NOUN pos:VERB pos:VERB pos:NOUN pos:VERB pos:ADP pos:PRON pos:NOUN pos:CONJ pos:DET pos:NOUN pos:PRT pos:VERB pos:ADV
+pos:NUM pos:ADV
+pos:NOUN
+pos:VERB pos:NUM pos:NOUN pos:ADP pos:ADP pos:DET pos:NOUN pos:ADP pos:NOUN pos:NOUN
+pos:PRON pos:VERB pos:DET pos:ADP pos:ADV pos:ADJ
+pos:ADJ pos:NOUN pos:NOUN pos:ADP pos:DET pos:ADJ pos:NOUN pos:ADV
+pos:VERB pos:DET pos:ADJ pos:NOUN
+pos:NUM pos:ADV
+pos:NOUN
+pos:PRON pos:VERB pos:PRON pos:PRT pos:ADP pos:DET pos:ADJ pos:NOUN pos:ADP pos:NOUN pos:PRT pos:ADP pos:ADJ pos:CONJ pos:NOUN pos:ADP pos:NOUN
+pos:PRON pos:VERB pos:NOUN pos:ADP pos:DET pos:NOUN pos:ADP pos:PRON pos:NOUN pos:VERB
+pos:PRON pos:ADV pos:VERB pos:ADP pos:PRON pos:VERB pos:VERB
+pos:PRON pos:VERB pos:ADV pos:VERB pos:ADP pos:PRON pos:VERB pos:VERB pos:NOUN pos:PRT pos:NOUN pos:ADP pos:PRON pos:NOUN pos:VERB pos:ADP pos:NOUN
+pos:PRON pos:VERB pos:PRT pos:VERB pos:DET pos:NOUN
+pos:DET pos:VERB pos:DET pos:ADJ pos:NOUN pos:ADP pos:NOUN pos:ADP pos:PRON pos:VERB pos:DET pos:NOUN pos:NOUN pos:ADP pos:VERB pos:DET pos:NOUN pos:NOUN pos:NOUN
+pos:PRON pos:VERB pos:ADV pos:VERB pos:DET pos:NOUN pos:ADP pos:DET pos:NOUN pos:ADP pos:DET pos:ADJ pos:NOUN pos:ADP pos:DET pos:NOUN pos:NOUN pos:ADP pos:NOUN pos:NOUN
+pos:PRON pos:VERB pos:VERB pos:ADJ pos:NOUN
+pos:PRON pos:NOUN pos:VERB pos:ADV pos:ADP pos:NOUN pos:CONJ pos:PRON pos:NOUN pos:VERB pos:ADV pos:VERB
+pos:PRON pos:VERB pos:DET pos:ADJ pos:ADP pos:DET pos:NOUN pos:VERB pos:ADV pos:VERB pos:PRON pos:NOUN pos:VERB
+pos:NUM pos:NOUN
+pos:NUM
+pos:PRON pos:VERB pos:VERB pos:DET pos:NOUN pos:ADP pos:NOUN pos:NOUN pos:ADP pos:PRON pos:NOUN pos:ADP pos:DET pos:NOUN
+pos:PRON pos:VERB pos:ADJ pos:PRT pos:VERB pos:DET pos:ADV pos:VERB pos:VERB
+pos:NUM pos:ADV
+pos:NOUN
+pos:NOUN pos:ADP pos:DET pos:NOUN pos:ADV pos:VERB pos:ADP pos:DET pos:ADJ pos:NOUN pos:CONJ pos:PRON pos:ADV pos:ADJ pos:NOUN pos:VERB pos:ADP pos:DET pos:NOUN
+pos:NOUN pos:CONJ pos:NOUN pos:ADV
+pos:DET pos:VERB pos:VERB pos:ADP pos:DET pos:NOUN pos:NOUN
+pos:NUM pos:ADV
+pos:NOUN
+pos:NOUN pos:. pos:ADP pos:DET pos:NOUN pos:NOUN pos:NOUN
+pos:VERB pos:ADV pos:VERB pos:DET pos:NOUN pos:CONJ pos:VERB pos:DET pos:ADJ pos:NOUN pos:NOUN
+pos:NOUN pos:NOUN
+pos:NUM pos:ADV
+pos:NOUN
+pos:PRON pos:ADV pos:VERB pos:DET pos:NOUN pos:DET pos:ADJ pos:NOUN pos:ADV
+pos:PRON pos:VERB pos:ADV pos:ADJ
+pos:NUM pos:ADV
+pos:NOUN
+pos:NOUN pos:NOUN pos:VERB pos:PRT pos:VERB pos:DET pos:NOUN pos:ADP pos:NOUN pos:DET pos:VERB pos:ADJ pos:ADP
+pos:DET pos:NOUN pos:ADJ pos:NOUN pos:CONJ pos:DET pos:NOUN pos:ADP pos:NOUN pos:NOUN pos:CONJ pos:NOUN pos:ADV pos:DET pos:ADP pos:DET pos:NOUN pos:ADP pos:DET pos:ADJ pos:ADJ pos:NOUN pos:CONJ pos:DET pos:NOUN pos:PRT pos:NOUN
+pos:DET pos:NOUN pos:VERB pos:ADP pos:PRON pos:NOUN pos:DET pos:ADJ pos:NOUN pos:ADP pos:ADJ pos:NOUN pos:CONJ pos:DET pos:NOUN pos:DET pos:VERB pos:VERB pos:VERB pos:ADP pos:PRON pos:NOUN pos:VERB pos:VERB pos:NOUN pos:ADP pos:PRON pos:NOUN
+pos:PRON pos:VERB pos:ADV pos:ADV pos:CONJ pos:ADV pos:CONJ pos:VERB pos:ADV pos:ADV pos:ADJ
+pos:PRON pos:VERB pos:ADP pos:NOUN pos:NOUN pos:ADV pos:DET pos:NOUN pos:VERB pos:ADP pos:NOUN
+pos:ADP pos:ADJ pos:PRON pos:VERB pos:ADJ
+pos:ADV pos:ADP pos:NOUN pos:VERB pos:ADJ pos:PRON pos:VERB pos:ADP pos:DET pos:NOUN pos:CONJ pos:VERB pos:DET pos:ADJ pos:ADJ pos:NOUN pos:ADP pos:VERB pos:DET pos:NOUN pos:NOUN pos:ADP pos:PRON pos:NOUN pos:VERB pos:ADV pos:CONJ pos:ADV pos:CONJ pos:DET pos:NOUN pos:VERB pos:ADP pos:DET pos:ADJ pos:NOUN
+pos:ADJ pos:PRON pos:PRON pos:VERB pos:PRT pos:NOUN pos:PRT pos:NOUN pos:CONJ pos:NOUN pos:PRT pos:ADJ pos:NOUN
+pos:NOUN pos:VERB pos:ADJ pos:CONJ pos:DET pos:VERB pos:DET pos:ADJ pos:ADJ pos:NOUN pos:ADP pos:NOUN pos:ADP pos:DET pos:NOUN pos:VERB
+pos:NUM pos:ADV
+pos:NOUN
+pos:NOUN pos:VERB pos:ADV pos:ADP pos:CONJ pos:NOUN pos:. pos:NOUN pos:. pos:VERB pos:PRT pos:VERB pos:VERB pos:ADP pos:DET pos:NOUN pos:. pos:PRON pos:VERB pos:VERB pos:NOUN pos:ADP pos:ADP pos:DET pos:NOUN pos:ADP pos:DET pos:NOUN pos:CONJ pos:NOUN pos:ADP pos:PRON pos:.
+pos:DET pos:NOUN pos:ADP pos:NOUN pos:VERB pos:ADP pos:DET pos:ADJ pos:NOUN pos:NOUN pos:ADP pos:NOUN pos:NOUN pos:ADV pos:DET pos:NOUN pos:VERB
+pos:PRON pos:VERB pos:ADP pos:NUM pos:ADP pos:DET pos:NOUN pos:VERB pos:DET pos:ADJ pos:NOUN pos:VERB pos:ADP pos:DET pos:NOUN
+pos:NOUN pos:VERB pos:VERB pos:ADJ pos:ADP pos:NOUN pos:VERB pos:ADV pos:ADJ pos:NOUN pos:VERB pos:VERB pos:PRT pos:VERB pos:ADV pos:ADP pos:DET pos:NOUN
+pos:NUM pos:ADV
+pos:NOUN
+pos:PRON pos:VERB pos:NOUN pos:VERB pos:DET pos:NOUN pos:ADP pos:DET pos:NOUN pos:CONJ pos:VERB pos:DET pos:NOUN pos:ADP pos:PRON pos:NOUN pos:ADP pos:ADP pos:NOUN pos:VERB pos:VERB pos:ADP pos:DET pos:NOUN pos:CONJ pos:NOUN
+pos:ADV pos:PRON pos:VERB pos:DET pos:NOUN pos:VERB pos:VERB pos:ADV pos:CONJ pos:ADV pos:ADP pos:ADP pos:NOUN pos:VERB pos:VERB pos:ADP pos:PRON
+pos:PRON pos:VERB pos:PRON pos:VERB pos:VERB pos:CONJ pos:VERB pos:ADP pos:DET pos:NOUN pos:ADP pos:DET pos:NOUN
+pos:NOUN pos:NOUN pos:VERB pos:VERB pos:DET pos:NOUN pos:ADP pos:DET pos:NOUN pos:VERB pos:DET pos:ADJ pos:NOUN pos:DET pos:NOUN pos:VERB pos:VERB pos:CONJ pos:PRON pos:VERB pos:PRON pos:ADP pos:DET pos:NOUN pos:NOUN pos:CONJ pos:VERB pos:ADP pos:DET pos:NOUN pos:PRON pos:VERB pos:DET pos:ADJ pos:NOUN pos:NOUN pos:VERB pos:ADP pos:DET pos:NOUN
+pos:ADV pos:PRON pos:VERB pos:PRON pos:VERB pos:ADP pos:PRON pos:VERB pos:CONJ pos:VERB pos:PRT pos:ADV pos:ADP pos:DET pos:NOUN pos:VERB pos:CONJ pos:VERB pos:ADP pos:NOUN pos:PRT pos:VERB pos:NOUN pos:VERB pos:ADP pos:ADP pos:PRON pos:VERB pos:NUM pos:ADP pos:NUM pos:ADP pos:PRON pos:VERB pos:ADV
+pos:ADV pos:ADP pos:PRON pos:NOUN pos:VERB pos:PRON pos:VERB pos:ADV pos:ADJ
+pos:ADV pos:PRON pos:VERB pos:DET pos:NOUN pos:ADP pos:NUM pos:CONJ pos:DET pos:NOUN pos:NOUN pos:PRON pos:VERB pos:PRT pos:VERB
+pos:NUM pos:ADV
+pos:NOUN
+pos:DET pos:NOUN pos:. pos:NOUN pos:. pos:VERB pos:ADJ pos:CONJ pos:ADJ pos:ADP pos:DET pos:NOUN pos:NOUN pos:DET pos:NOUN pos:NOUN pos:ADP pos:NOUN pos:VERB pos:NOUN pos:VERB pos:VERB pos:NOUN
+pos:NUM pos:ADV
+pos:NOUN
+pos:PRON pos:VERB pos:ADV pos:VERB pos:PRT pos:VERB pos:ADP pos:DET pos:ADJ pos:NOUN pos:NOUN pos:DET pos:NOUN pos:CONJ pos:DET pos:NOUN pos:VERB pos:VERB pos:ADV
+pos:PRON pos:VERB pos:DET pos:ADJ pos:NOUN pos:VERB pos:PRT pos:ADP pos:NOUN pos:CONJ pos:PRON pos:VERB pos:ADV pos:VERB pos:ADV
+pos:DET pos:NUM pos:ADP pos:PRON pos:VERB pos:VERB pos:ADP pos:DET pos:NOUN pos:CONJ pos:ADV pos:ADV pos:PRON pos:VERB pos:ADP pos:VERB pos:PRON pos:VERB pos:ADP pos:DET pos:NOUN
+pos:ADJ pos:PRT pos:VERB pos:PRON pos:VERB pos:DET pos:ADJ pos:ADJ pos:NOUN
+pos:NUM pos:ADV
+pos:NOUN
+pos:NOUN pos:VERB pos:ADV pos:ADJ
+pos:ADJ pos:NOUN pos:VERB pos:VERB pos:NOUN pos:PRON pos:VERB pos:ADV pos:VERB pos:DET pos:NOUN pos:ADP pos:CONJ pos:VERB pos:DET pos:ADV pos:ADJ pos:NOUN pos:ADV pos:VERB
+pos:NUM pos:ADV
+pos:NOUN
+pos:NOUN pos:CONJ pos:PRON pos:VERB pos:ADP pos:PRON pos:NOUN pos:ADV pos:DET pos:NOUN pos:VERB pos:VERB pos:ADP pos:NOUN pos:NOUN
+pos:PRON pos:VERB pos:ADP pos:DET pos:NOUN pos:PRT pos:VERB pos:NOUN pos:CONJ pos:DET pos:ADJ pos:NOUN pos:VERB pos:PRON pos:ADP pos:DET pos:NOUN pos:CONJ pos:VERB pos:PRON pos:ADP pos:PRON pos:VERB pos:PRT pos:VERB pos:PRT pos:PRON pos:NOUN
+pos:PRON pos:VERB pos:DET pos:ADJ pos:ADV pos:ADP pos:NOUN pos:VERB pos:ADV pos:VERB
+pos:NOUN pos:ADJ pos:ADP pos:ADJ pos:NOUN
+pos:NOUN pos:CONJ pos:NOUN pos:DET pos:ADP pos:PRON pos:NOUN
+pos:ADV pos:NUM pos:NOUN pos:ADP pos:DET pos:NOUN pos:VERB pos:ADV pos:PRON pos:VERB pos:VERB pos:PRT pos:VERB pos:CONJ pos:DET pos:NOUN pos:VERB pos:ADJ
+pos:ADP pos:PRON pos:VERB pos:VERB pos:ADP pos:DET pos:NOUN pos:ADP pos:NOUN pos:VERB pos:ADP pos:DET pos:NOUN pos:PRON pos:VERB pos:ADP pos:DET pos:DET pos:NOUN pos:VERB pos:VERB pos:ADP pos:DET pos:NOUN pos:CONJ pos:VERB pos:ADP pos:DET pos:NOUN
+pos:NUM pos:NOUN
+pos:NUM
+pos:PRON pos:VERB pos:ADJ pos:ADV pos:NUM pos:NOUN pos:VERB pos:ADV pos:ADV pos:VERB pos:PRON pos:NOUN
+pos:NUM pos:ADV
+pos:NOUN
+pos:PRON pos:VERB pos:PRON pos:VERB pos:DET pos:VERB pos:ADV pos:ADV pos:ADV pos:VERB pos:ADP pos:DET pos:ADJ pos:CONJ pos:ADJ pos:NOUN
+pos:PRON pos:VERB pos:ADJ pos:PRT pos:VERB pos:ADP pos:PRON pos:VERB pos:ADV pos:CONJ pos:ADV pos:VERB pos:NUM pos:NOUN
+pos:PRON pos:VERB pos:ADV pos:PRON pos:VERB pos:VERB pos:ADJ pos:PRT pos:VERB
+pos:NUM pos:ADV
+pos:NOUN
+pos:NOUN pos:VERB pos:PRT pos:NOUN pos:NOUN pos:ADP pos:NOUN pos:CONJ pos:NOUN
+pos:NOUN pos:VERB pos:DET pos:ADJ pos:NOUN
+pos:NOUN pos:ADV pos:ADJ pos:ADV pos:ADV
+pos:PRON pos:VERB pos:ADP pos:NOUN pos:ADP pos:NOUN pos:CONJ pos:NOUN pos:ADP pos:DET pos:ADJ pos:NOUN pos:ADP pos:NUM pos:DET pos:NOUN
+pos:ADJ pos:PRT pos:NOUN pos:NOUN pos:DET pos:ADJ pos:NOUN pos:VERB pos:ADP pos:DET pos:ADJ pos:NOUN pos:VERB pos:VERB pos:NOUN pos:CONJ pos:ADV pos:DET pos:NOUN pos:VERB pos:VERB pos:VERB pos:ADV pos:PRON pos:ADJ pos:ADV pos:PRT pos:VERB pos:ADJ
+pos:PRON pos:VERB
+pos:PRON pos:VERB
+pos:ADJ
