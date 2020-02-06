@@ -12,7 +12,7 @@ The coarse-grained categories are [Wordnet Domains](http://wndomains.fbk.eu/) an
 The image below is a graphical representation of the full pipeline and baseline model of this implementation
 
 ![](images/figure1.jpg)
-<img src="images/model.jpg" title="Base Model" width="600" />
+<img src="images/model.jpg" title="Base Model" width="450" />
 
 
 [Read the report here](report.pdf)
@@ -25,7 +25,7 @@ This project was done as part of a graduate degree NLP course with [Prof. Navigl
 The trained WSD is too large to upload on this repo so training is absolutely required. 
 However, the other files required to test the model (after training) - the jupyter notebooks in the `code` folder, the mapping files and the vocabulary from the training set in the `resources` folder, and the validation dataset in the `data` folder - are present in this repo.
 
-To train, download [the SemCor and OMSTI sense annotated dataset](http://lcl.uniroma1.it/wsdeval/), extract it, then follow the code in [the notebook](code/200k_data_baseline_model_A.ipynb) in the `/code` folder (don't forget to consolidate the paths to correspond with the new paths).
+To train, download [the SemCor and OMSTI sense annotated dataset](http://lcl.uniroma1.it/wsdeval/), extract it, then follow the code in [this notebook](code/200k_data_baseline_model_A.ipynb) in the `code` folder (don't forget to consolidate the paths to correspond with the new paths).
 
 Training consists of parsing and preprocessing the corpora, and training the model. 
 The code to preprocess are functions in `code/corpora.py`. The functions both extract the sentences in the xml corpora and preprocess them. The usage is as follows:
@@ -37,7 +37,6 @@ outfolder_path = 'data/Training_Corpora/semcor+omsti/'
 corpora_xml_path = outfolder_path + 'semcor+omsti.data.xml'
 gold_mapping_path = outfolder_path + 'semcor.gold.key.txt'
 resources_path = 'resources/'
-
 
 extract_training_data(corpora_xml_path, gold_mapping_path, resources_path, outfolder_path)
 ```
