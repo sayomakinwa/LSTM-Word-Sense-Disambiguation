@@ -1,4 +1,4 @@
-# LSTM-Word-Sense-Disambiguation
+# NLP-LSTM-Word-Sense-Disambiguation
 
 This project implements the paper [Neural Sequence Learning Models for Word Sense Disambiguation](http://wwwusers.di.uniroma1.it/~navigli/pubs/EMNLP_2017_Raganatoetal.pdf).
 
